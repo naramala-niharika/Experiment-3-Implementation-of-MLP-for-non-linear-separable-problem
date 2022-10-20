@@ -38,12 +38,12 @@ Step 3: Repeat the  iteration  until the losses become constant and
              (iv) Modify the weight as per delta rule.
              (v)   Append the losses in a list
 Step 4 : Test for the XOR patterns.
-
+```
 ** PROGRAM** 
 /Type your Program here/
 Name : Naramala Nihiarika
 Registration no:212221240031
-```
+
 ### Program:
 import numpy as np
 import pandas as pd
@@ -114,7 +114,6 @@ test=np.array([[1],[0]])
 predict(w1,w2,test)
 test=np.array([[1],[1]])
 predict(w1,w2,test)
-```
 
  **OUTPUT** :
  ![Output](https://github.com/naramala-niharika/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/blob/main/a.jpg?raw=true)
@@ -123,3 +122,4 @@ predict(w1,w2,test)
  
 ** RESULT**:
 Thus a MLP is implemented for non linear separable problem using Python.
+```
