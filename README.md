@@ -117,8 +117,8 @@ predict(w1,w2,test)
 ```
 
  **OUTPUT** :
- ![Output](?raw=true)
- 1[Output](?raw=true)
+
+![196427274-796c55e2-49d1-48cf-8cde-e1760d0580aa](https://user-images.githubusercontent.com/94165377/196872165-232ba18d-1cda-4631-82c9-9ac286b1e4cd.jpg)
 
 ** RESULT**:
 Thus a MLP is implemented for non linear separable problem using Python.
